@@ -1,3 +1,9 @@
 C:\Users\VAS0037824\Desktop\aberturaordensservico\src\main\java\br\com\senai\aberturaordensservico\AberturaordensservicoApplication.java
+C:\Users\VAS0037824\Desktop\aberturaordensservico\src\main\java\br\com\senai\aberturaordensservico\controller\EquipamentoController.java
+C:\Users\VAS0037824\Desktop\aberturaordensservico\src\main\java\br\com\senai\aberturaordensservico\controller\SetorController.java
+C:\Users\VAS0037824\Desktop\aberturaordensservico\src\main\java\br\com\senai\aberturaordensservico\model\Equipamento.java
 C:\Users\VAS0037824\Desktop\aberturaordensservico\src\main\java\br\com\senai\aberturaordensservico\model\Setor.java
+C:\Users\VAS0037824\Desktop\aberturaordensservico\src\main\java\br\com\senai\aberturaordensservico\repository\EquipamentoRepository.java
 C:\Users\VAS0037824\Desktop\aberturaordensservico\src\main\java\br\com\senai\aberturaordensservico\repository\SetorRepository.java
+C:\Users\VAS0037824\Desktop\aberturaordensservico\src\main\java\br\com\senai\aberturaordensservico\service\EquipamentoService.java
+C:\Users\VAS0037824\Desktop\aberturaordensservico\src\main\java\br\com\senai\aberturaordensservico\service\SetorService.java

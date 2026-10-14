@@ -20,6 +20,10 @@ private String nome;
 public Setor() {
 }
 
+public Setor(String nome) {
+    this.nome = nome;
+}
+
 public Integer getId() {
     return id;
 }
